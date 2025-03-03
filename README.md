@@ -1,2 +1,8 @@
 # BLU-Customer-Satisfaction-Analysis
 A Big Data project analyzing customer satisfaction for BLU, a French e-commerce company. This project explores customer behavior, delivery impact, and predictive modeling using Spark, Logistic Regression, Random Forest, and Gradient Boosting to improve business insights and customer experience.
+
+🔍 Key Insights from Our Analysis: ✔️ 78.3% of reviews are positive, indicating strong customer satisfaction, but 21.7% highlight pain points—primarily late deliveries. ✔️ On-time delivery matters: 97.8% of positive reviews are linked to timely deliveries, while 21.1% of negative reviews stem from delays. ✔️ Order size & shipping cost correlations: Larger orders and higher shipping costs show a weak negative correlation with satisfaction—an opportunity for optimization.
+
+📊 Data-Driven Solutions: ✅ Predictive Modeling with AI: Using Gradient Boosting, we achieved 81.71% accuracy in predicting customer reviews, outperforming other models. ✅ Operational Efficiency: Leveraging AI-driven insights, businesses can proactively address potential delivery delays and enhance the customer experience. ✅ Strategic Interventions: Our model helps prioritize high-risk orders, allowing targeted logistics improvements and better customer communication.
+
+💡 Business Recommendations: 🔹 Prioritize On-Time Delivery: Invest in logistics, route optimization, and proactive customer updates. 🔹 Optimize Large Orders & Shipping Costs: Improve fulfillment processes and offer value-driven shipping incentives. 🔹 Customer-Centric Approach: Focus on high-value customers with personalized offers and premium services.
